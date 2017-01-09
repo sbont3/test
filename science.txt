@@ -1,0 +1,12 @@
+g, as noted in the terms directory in Part 1, simply indicates that the following text should be read as a message. Notice the commit message is written in present tense. You should always write your commands in present tense because version control is all about flexibility through time. You’re not writing about what a commit did, because you may always revert to earlier. You’re writing about what a commit does.
+
+Now that we’ve done a little work locally, it’s time to “push” our first commit up to GitHub.
+
+“Wait, we never connected my online repository to my local repository,” you might be thinking. And you’re right. In fact, your local repository and your online one are only connecting for short bursts, when you’re confirming project additions and changes. Let’s move on to making your first real connection now.
+
+
+
+
+
+
+
