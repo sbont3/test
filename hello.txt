@@ -10,13 +10,3 @@ one two three
 =======
 hello one two theree
 <<<<<<< HEAD
-
->>>>>>> hello
-hi 
-gud mrng 
-gud noon
-=======
-hiii 
-gu mrng 
-gud noo
->>>>>>> hello
