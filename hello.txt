@@ -7,13 +7,8 @@ hvcjhvsdjhsdvcsdjc
 hi
 hello
 one two three
-=======
-hello one two theree
-<<<<<<< HEAD
-k
-k
-k
-k
-k
+
 vanakam 
 this is another git class
+ssh -i "AWS Training.pem" ec2-user@ec2-35-164-62-81.us-west-2.compute.amazonaws.com
+ssh -i "AWS Training.pem" ec2-user@ec2-35-164-62-81.us-west-2.compute.amazonaws.com
