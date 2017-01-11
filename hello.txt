@@ -2,7 +2,12 @@ hi helo
 okay 
 okay
 okay
+<<<<<<< HEAD
 hvcjhvsdjhsdvcsdjc
 hi
 hello
 one two three
+=======
+hello one two theree
+
+>>>>>>> hello
